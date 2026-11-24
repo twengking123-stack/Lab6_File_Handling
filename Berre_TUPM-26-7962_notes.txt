@@ -1,0 +1,5 @@
+Student: Berre
+Student ID: TUPM-26-7962
+Seed Digit: 2
+ID Sum: 32
+Verification value: 162
